@@ -873,6 +873,10 @@ opacity: 0.8;
 	background-color: #262431;
 }
 
+.tabs1 h2 {
+	text-align: center;
+	margin-bottom: 30px;
+}
 /*tabel */
 
 
@@ -1629,6 +1633,25 @@ a:hover.back-to-top {
     
 }
 
+.table {
+	color: #fff;
+	text-align: center;
+	border: 2px solid #454D55;
+}
+
+.table thead {
+	border: 2px solid #454D55;
+	background-color: #D9B23D;
+}
+.table th {
+	text-align: center;
+	border: 2px solid #454D55;
+}
+
+.table td {
+	text-align: end;
+	border: 2px solid #454D55;
+}
 
 
 
